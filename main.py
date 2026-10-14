@@ -47,8 +47,8 @@ SUBSCRIBER_FILE = "subscribers.json"
 SETTINGS_FILE = "settings.json"
 AUTO_LOG_FILE = "auto_log.json"
 
-FORCE_CHANNEL_USERNAME = "@Adityaapis_570"
-FORCE_CHANNEL_LINK = "https://t.me/Adityaapis_570"
+FORCE_CHANNEL_USERNAME = "@madmaxxstores"
+FORCE_CHANNEL_LINK = "https://t.me/MADMAXxSTORES"
 
 AUTO_BLACKLIST_FILE = "auto_emails.json"
 BROADCAST_FILE = "users.json"
